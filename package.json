@@ -1,7 +1,6 @@
 {
   "name": "hello-jenkins",
   "version": "1.0.0",
-  "description": "Jenkins CI/CD demo app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
